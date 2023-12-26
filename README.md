@@ -56,11 +56,11 @@ For more information, please see: [AMD Ryzen and Threadripper(17h and 19h)](http
 > The version before macOS Monterey is not supported！If you need, please submit issue and let me know to deliver appropriate package.
 
 ### Not the model of my cpu ?
-It justly figures out the model of your ryzen / threadripper cpu.
+Just figure out the model of your ryzen / threadripper cpu.
 You can fix the patches by yourselves according to [AMD_Vanilla](https://github.com/AMD-OSX/AMD_Vanilla). 
 
 ### How can I do when my hardware is not included in list ?
-The list that displays various hardware is installed by myself, you could correct configuration file by yourself if you have other hardware. Similarly, if some hardwares which are displayed above is not installed on your machine. You could manually set related driver to disable status in configuration file.
+The list that displays various hardware is installed for myself, you could correct configuration file by yourself if you have other hardware. Similarly, if some hardwares which are displayed above is not installed on your machine. You could manually set related driver to disable status in configuration file.
 
 ### Submit issue
 If you have encountered any problem or you have any advice & request, please submit it into issue and we will take it seriously.
