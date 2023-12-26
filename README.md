@@ -1,4 +1,4 @@
-# EFI_TRX40
+# EFI_X570-P
 **Ryzentosh EFI for the Asus X570-P motherboard**
 ![X570-P_Motherboard](./X570-P_Motherboard.jpeg)
 
